@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Todo.Domain.Tests/bin/Debug/net7.0/Todo.Domain.Tests.dll",
+            "program": "${workspaceFolder}/Todo.Domain.Api/bin/Debug/net7.0/Todo.Domain.Api.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Todo.Domain.Tests",
+            "cwd": "${workspaceFolder}/Todo.Domain.Api",
             "console": "internalConsole",
             "stopAtEntry": false
         },
